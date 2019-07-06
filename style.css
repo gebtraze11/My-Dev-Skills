@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    text-align: center;
+}
+h1{
+    background-color:lightgreen;
+}
+ul{
+list-style: none;
+}
+li{
+    font-size: 20px;
+    color: brown;
+}
+input{
+    width:150px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#addSkill{
+    width:90px;
+    height:20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
